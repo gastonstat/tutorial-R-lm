@@ -1,18 +1,7 @@
 ## Tutorial R's Linear Model `lm()` Function
 
 This tutorial is about the all-mighty linear model `lm()` function R to fit
-linear regression models:
-
-- [Introduction](documents/01-introduction.md)
-
-- [R CMD BATCH](documents/02-batch-mode.md)
-
-- [Rscript](documents/03-rscript.md)
-
-- [Shell script](documents/04-shell-script.md)
-
-- [Redirection](documents/05-redirection.md)
-
+linear regression models.
 
 
 ## Donation
