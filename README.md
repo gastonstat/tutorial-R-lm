@@ -3,6 +3,8 @@
 This tutorial is about the all-mighty linear model `lm()` function R to fit
 linear regression models.
 
+[__tutorial-R-lm.pdf__](tutorial-R-lm.pdf)
+
 
 ## Donation
 
